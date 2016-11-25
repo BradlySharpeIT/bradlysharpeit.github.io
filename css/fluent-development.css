@@ -1,8 +1,8 @@
 /*** uncss> filename: destination/css/fluent-development.css ***/
 @font-face {
 	font-family: 'fluentdevelopment';
-	src: url("https://assets.fluentdevelopment.com.au/font/fluentdevelopment.eot");
-	src: url("https://assets.fluentdevelopment.com.au/font/fluentdevelopment.eot#iefix") format("embedded-opentype"), url("https://assets.fluentdevelopment.com.au/font/fluentdevelopment.woff2") format("woff2"), url("https://assets.fluentdevelopment.com.au/font/fluentdevelopment.woff") format("woff"), url("https://assets.fluentdevelopment.com.au/font/fluentdevelopment.ttf") format("truetype"), url("https://assets.fluentdevelopment.com.au/font/fluentdevelopment.svg#fluentdevelopment") format("svg");
+	src: url("https://bradlysharpe.com.au/font/fluentdevelopment.eot");
+	src: url("https://bradlysharpe.com.au/font/fluentdevelopment.eot#iefix") format("embedded-opentype"), url("https://bradlysharpe.com.au/font/fluentdevelopment.woff2") format("woff2"), url("https://bradlysharpe.com.au/font/fluentdevelopment.woff") format("woff"), url("https://bradlysharpe.com.au/font/fluentdevelopment.ttf") format("truetype"), url("https://bradlysharpe.com.au/font/fluentdevelopment.svg#fluentdevelopment") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fluentdevelopment';
-    src: url('https://assets.fluentdevelopment.com.au/font/fluentdevelopment.svg#fluentdevelopment') format('svg');
+    src: url('https://bradlysharpe.com.au/font/fluentdevelopment.svg#fluentdevelopment') format('svg');
   }
 }
 */
@@ -92,24 +92,24 @@
 	font-family: 'Open Sans';
 	font-style: normal;
 	font-weight: 400;
-	src: url(https://assets.fluentdevelopment.com.au/font/open-sans-400-normal.eot);
-	src: local("Open Sans"), local("OpenSans"), url(https://assets.fluentdevelopment.com.au/font/open-sans-400-normal.woff2) format("woff"), url(https://assets.fluentdevelopment.com.au/font/open-sans-400-normal.woff) format("woff"), url(https://assets.fluentdevelopment.com.au/font/open-sans-400-normal.ttf) format("truetype"), url(https://assets.fluentdevelopment.com.au/font/open-sans-400-normal.svg#OpenSans) format("svg");
+	src: url(https://bradlysharpe.com.au/font/open-sans-400-normal.eot);
+	src: local("Open Sans"), local("OpenSans"), url(https://bradlysharpe.com.au/font/open-sans-400-normal.woff2) format("woff"), url(https://bradlysharpe.com.au/font/open-sans-400-normal.woff) format("woff"), url(https://bradlysharpe.com.au/font/open-sans-400-normal.ttf) format("truetype"), url(https://bradlysharpe.com.au/font/open-sans-400-normal.svg#OpenSans) format("svg");
 }
 
 @font-face {
 	font-family: 'Open Sans';
 	font-style: normal;
 	font-weight: 700;
-	src: url(https://assets.fluentdevelopment.com.au/font/open-sans-700-normal.eot);
-	src: local("Open Sans Bold"), local("OpenSans-Bold"), url(https://assets.fluentdevelopment.com.au/font/open-sans-700-normal.woff2) format("woff"), url(https://assets.fluentdevelopment.com.au/font/open-sans-700-normal.woff) format("woff"), url(https://assets.fluentdevelopment.com.au/font/open-sans-700-normal.ttf) format("truetype"), url(https://assets.fluentdevelopment.com.au/font/open-sans-700-normal.svg#OpenSans) format("svg");
+	src: url(https://bradlysharpe.com.au/font/open-sans-700-normal.eot);
+	src: local("Open Sans Bold"), local("OpenSans-Bold"), url(https://bradlysharpe.com.au/font/open-sans-700-normal.woff2) format("woff"), url(https://bradlysharpe.com.au/font/open-sans-700-normal.woff) format("woff"), url(https://bradlysharpe.com.au/font/open-sans-700-normal.ttf) format("truetype"), url(https://bradlysharpe.com.au/font/open-sans-700-normal.svg#OpenSans) format("svg");
 }
 
 @font-face {
 	font-family: 'Quicksand';
 	font-style: normal;
 	font-weight: 400;
-	src: url(https://assets.fluentdevelopment.com.au/font/quicksand-400-normal.eot);
-	src: local("Quicksand Regular"), local("Quicksand-Regular"), url(https://assets.fluentdevelopment.com.au/font/quicksand-400-normal.woff2) format("woff"), url(https://assets.fluentdevelopment.com.au/font/quicksand-400-normal.woff) format("woff"), url(https://assets.fluentdevelopment.com.au/font/quicksand-400-normal.ttf) format("truetype"), url(https://assets.fluentdevelopment.com.au/font/quicksand-400-normal.svg#Quicksand) format("svg");
+	src: url(https://bradlysharpe.com.au/font/quicksand-400-normal.eot);
+	src: local("Quicksand Regular"), local("Quicksand-Regular"), url(https://bradlysharpe.com.au/font/quicksand-400-normal.woff2) format("woff"), url(https://bradlysharpe.com.au/font/quicksand-400-normal.woff) format("woff"), url(https://bradlysharpe.com.au/font/quicksand-400-normal.ttf) format("truetype"), url(https://bradlysharpe.com.au/font/quicksand-400-normal.svg#Quicksand) format("svg");
 }
 
 /* line 15, ../../source/configuration/sass/_typography.scss */

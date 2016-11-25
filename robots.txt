@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow:
 Allow: /
-Sitemap: https://fluentdevelopment.com.au/sitemap.xml
+Sitemap: https://bradlysharpe.com.au/sitemap.xml
