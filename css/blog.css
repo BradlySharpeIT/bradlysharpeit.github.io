@@ -1,0 +1,78 @@
+/* line 1, ../../source/configuration/sass/page/_blog.scss */
+
+.blog {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10rem;
+	margin-bottom: 10rem;
+	width: 90%;
+}
+
+/* line 18, ../../source/configuration/sass/page/_blog.scss */
+
+.blog a.post-link {
+	text-decoration: none;
+	color: inherit;
+	transition: color 0.5s;
+}
+
+/* line 23, ../../source/configuration/sass/page/_blog.scss */
+
+.blog a.post-link > h2,
+.blog a.post-link > h3 {
+	color: inherit;
+}
+
+/* line 27, ../../source/configuration/sass/page/_blog.scss */
+
+.blog a.post-link:hover,
+.blog a.post-link:focus {
+	color: inherit;
+	text-shadow: none;
+	color: #7f7f7f;
+}
+
+/* line 35, ../../source/configuration/sass/page/_blog.scss */
+
+.blog .post-list {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* line 40, ../../source/configuration/sass/page/_blog.scss */
+
+.blog .post-list .post {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+/* line 45, ../../source/configuration/sass/page/_blog.scss */
+
+.blog .post-list hr {
+	width: 95%;
+	height: 0;
+	margin-bottom: 2rem;
+	margin-top: 2rem;
+	border: 0;
+	border-top: 1px solid #eee;
+}
+
+/* line 56, ../../source/configuration/sass/page/_blog.scss */
+
+.blog .post .post-meta {
+	font-size: 1.4rem;
+	font-style: italic;
+}
+
+@media (min-width: 48em) {
+
+/* line 1, ../../source/configuration/sass/page/_blog.scss */
+
+.blog {
+	width: 75%;
+	max-width: 80rem;
+}
+
+}
+

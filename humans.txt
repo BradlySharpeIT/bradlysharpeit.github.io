@@ -1,0 +1,16 @@
+/* TEAM */
+Your title: Mr. Bradly Sharpe
+Site: https://fluentdevelopment.com.au/
+Location: Warrnambool, Victoria, Australia
+
+Your title: Mr. Timshel Knoll-Miller
+Site: https://fluentdevelopment.com.au/
+Location: Cudge, Victoria, Australia
+
+/* THANKS */
+
+/* SITE */
+Last update: 2016-11-18
+Standards: HTML5, SCSS, CSS3, JavaScript
+Components: Grunt, Bower, PostCSS, Handlebars
+Software: Atom, Assemble.io, Git
